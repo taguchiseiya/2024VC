@@ -1,0 +1,12 @@
+@charset "utf-8";
+body h1 {
+	color: #FF6B00;
+}
+.key {
+	color: #FDFFF6;
+	background-color: #2000FF;
+	font-size: x-large;
+}
+body p img {
+	border: 10px dashed #00FFE1;
+}
